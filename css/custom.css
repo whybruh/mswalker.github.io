@@ -18,7 +18,7 @@ a:focus {
 }
 
 p {
-    font-size: 16px;
+    font-size: 30px;
     line-height: 1.5;
 }
 
@@ -180,7 +180,7 @@ header .header-content .header-content-inner p {
     
 .content-3 .glyphicon,  
 .page-footer .contact .glyphicon {
-    font-size: 32px;
+    font-size: 30px;
     font-weight: 700;
     }
         
