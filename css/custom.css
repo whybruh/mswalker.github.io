@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: yellowgreen;
+    color: green;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -18,7 +18,7 @@ a:focus {
 }
 
 p {
-    font-size: 30px;
+    font-size: 16px;
     line-height: 1.5;
 }
 
@@ -96,7 +96,7 @@ header .header-content .header-content-inner p {
 
 .intro {
     color: #fff;
-    background-color: yellowgreen;
+    background-color: green;
     padding: 70px 0;
     text-align: center;
 }
@@ -153,7 +153,7 @@ header .header-content .header-content-inner p {
     }
     
 .item-3 {
-    background: url('images/cats3.jpg');
+    background: url('image/cats3.jpg)';
     }
         
 .item-1,
@@ -162,17 +162,14 @@ header .header-content .header-content-inner p {
     background-size: cover;
     background-position: 50% 50%;
     }
-
 .page-footer {
     text-align: center;
     }
-
 .page-footer .contact {
     padding: 100px 0;
-    background-color: yellowgreen;
+    background-color: green;
     color: #fff;
     }
-
 .page-footer .contact p {
     font-size: 30px;
     font-weight: 300;
@@ -188,7 +185,6 @@ header .header-content .header-content-inner p {
     padding: 50px 0 40px;
     font-weight: 300;
     }
-
 .text-light {
     color: rgba(255,255,255,.7);
 }
@@ -202,7 +198,7 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: yellowgreen;
+    color: green;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -217,12 +213,12 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: yellowgreen;
+    color: green;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: yellowgreen!important;
+    color: green!important;
     background-color: transparent;
 }
 
@@ -265,7 +261,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: yellowgreen;
+        color: green;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -280,7 +276,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: yellowgreen;
+        color: green;
     }
 }
 
@@ -338,9 +334,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: yellowgreen;
+    border-color: green;
     color: #fff;
-    background-color: yellowgreen;
+    background-color: green;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -381,12 +377,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: yellowgreen;
-    background-color: yellowgreen;
+    border-color: green;
+    background-color: green;
 }
 
 .btn-primary .badge {
-    color: yellowgreen;
+    color: green;
     background-color: #fff;
 }
 
@@ -423,9 +419,9 @@ img::-moz-selection {
 }
 
 .text-primary {
-    color: yellowgreen;
+    color: green;
 }
 
 .bg-primary {
-    background-color: yellowgreen;
+    background-color: green;
 }
