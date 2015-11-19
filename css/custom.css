@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: blue;
+    color: green;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -14,7 +14,7 @@ a {
 
 a:hover,
 a:focus {
-    color: blue;
+    color: green;
 }
 
 p {
@@ -96,7 +96,7 @@ header .header-content .header-content-inner p {
 
 .intro {
     color: #fff;
-    background-color: blue;
+    background-color: green;
     padding: 70px 0;
     text-align: center;
 }
@@ -169,7 +169,7 @@ header .header-content .header-content-inner p {
 
 .page-footer .contact {
     padding: 100px 0;
-    background-color: blue;
+    background-color: green;
     color: #fff;
     }
 
@@ -202,7 +202,7 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: blue;
+    color: green;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -217,12 +217,12 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: blue;
+    color: green;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: blue!important;
+    color: green!important;
     background-color: transparent;
 }
 
@@ -265,7 +265,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: blue;
+        color: green;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -280,7 +280,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: blue;
+        color: green;
     }
 }
 
@@ -338,9 +338,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: blue;
+    border-color: green;
     color: #fff;
-    background-color: blue;
+    background-color: green;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -352,9 +352,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: limeblue;
+    border-color: limegreen;
     color: #fff;
-    background-color: limeblue;
+    background-color: limegreen;
 }
 
 .btn-primary:active,
@@ -381,12 +381,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: blue;
-    background-color: blue;
+    border-color: green;
+    background-color: green;
 }
 
 .btn-primary .badge {
-    color: blue;
+    color: green;
     background-color: #fff;
 }
 
@@ -423,9 +423,9 @@ img::-moz-selection {
 }
 
 .text-primary {
-    color: blue;
+    color: green;
 }
 
 .bg-primary {
-    background-color: blue;
+    background-color: green;
 }
