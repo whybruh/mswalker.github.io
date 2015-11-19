@@ -207,7 +207,7 @@ header .header-content .header-content-inner p {
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #0000ff;
 }
 
 .navbar-default .nav > li>a,
@@ -217,7 +217,7 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: green;
+    color: blue;
 }
 
 .navbar-default .nav > li.active>a,
@@ -244,7 +244,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default .navbar-header .navbar-brand:hover,
     .navbar-default .navbar-header .navbar-brand:focus {
-        color: #fff;
+        color: blue;
     }
 
     .navbar-default .nav > li>a,
@@ -254,7 +254,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default .nav > li>a:hover,
     .navbar-default .nav>li>a:focus:hover {
-        color: #fff;
+        color: blue;
     }
 
     .navbar-default.affix {
@@ -270,7 +270,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #eb3812;
+        color: blue;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -280,7 +280,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: green;
+        color: blue;
     }
 }
 
