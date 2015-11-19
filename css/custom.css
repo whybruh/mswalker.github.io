@@ -136,7 +136,7 @@ header .header-content .header-content-inner p {
     background-size: 110%; 
     border: 10px solid rgba(255,255,255,0.3);
     line-height: 160px;
-    transform-rotate:(45deg);
+    transform: rotate(45deg);
 }
 
 .promo-item h3 {
